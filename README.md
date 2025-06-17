@@ -21,7 +21,7 @@
 class Ilja:
     def __init__(self):
         self.role = "Python Developer"
-        self.stack = ["Flask", "FastAPI", "MySQL", "OpenCV", "Pandas", "Java Script"]
+        self.stack = ["Flask", "FastAPI", "MySQL", "OpenCV", "Yolo", "Pandas", "Java Script"]
         self.learning = ["LLMs", "Docker", "Kubernetes"]
 
     def contact(self):
