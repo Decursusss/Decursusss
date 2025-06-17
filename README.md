@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="90" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhjOXBhN256YjI2NHFjM2dmb2NmaHY0aTR4eW42eTFrc2I2azI1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skMw9r8WsPZZ0MWyJP/giphy.gif"  />
-</div>
-
-###
-
 <h3 align="center">Currently working as a Python developer!</h3>
 
 ###
