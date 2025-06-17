@@ -8,8 +8,6 @@
 <h1 align="center">Hi 👋 I'm Ilja</h1>
 <h3 align="center">Python Developer | AI Enthusiast | Backend Engineer</h3>
 
-<p align="center"> <a href="https://www.linkedin.com/in/ilja-bastrikins/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.youtube.com/@bastrikins1" target="_blank"> <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="mailto:galagol231@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-
 ---
 
 ### 🚀 About Me
@@ -23,4 +21,7 @@ class Ilja:
 
     def contact(self):
         return ["LinkedIn", "YouTube", "Gmail"]
+```
 
+### 📬 Contact Me
+<p align="center"> <a href="https://www.linkedin.com/in/ilja-bastrikins/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.youtube.com/@bastrikins1" target="_blank"> <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="mailto:galagol231@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
