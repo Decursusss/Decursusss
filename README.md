@@ -16,23 +16,9 @@
 class Ilja:
     def __init__(self):
         self.role = "Python Developer"
-        self.stack = ["Flask", "FastAPI", "MySQL", "OpenCV", "Pandas"]
+        self.stack = ["Flask", "FastAPI", "MySQL", "OpenCV", "Pandas", "Java Script"]
         self.learning = ["LLMs", "Docker", "Kubernetes"]
 
     def contact(self):
         return ["LinkedIn", "YouTube", "Gmail"]
-📬 Contact Me
-<p align="center"> <a href="https://www.linkedin.com/in/ilja-bastrikins/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.youtube.com/@bastrikins1" target="_blank"> <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="mailto:galagol231@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-🧰 Tech Stack
-💻 Languages & Frontend
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind" /> </p>
-🤖 AI & Databases
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" /> </p>
-☁️ Other Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=aws,linux,github" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Decursusss&layout=compact&theme=tokyonight" height="150"/> </p>
-🧭 Fun Fact
-I love building things that make people's lives easier — from smart automations to scalable LMS platforms.
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p> ```
+```
