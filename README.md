@@ -10,7 +10,6 @@
 
 <p align="center"> <a href="https://www.linkedin.com/in/ilja-bastrikins/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.youtube.com/@bastrikins1" target="_blank"> <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="mailto:galagol231@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
-📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Decursusss&layout=compact&theme=tokyonight" height="150"/> </p>
 
 
