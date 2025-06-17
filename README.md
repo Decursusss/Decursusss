@@ -43,8 +43,6 @@
 
 <p align="center">AI + ML / Database</p>
 
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35" alt="opencv logo"  />
   <img width="12" />
@@ -57,8 +55,6 @@
 
 <p align="center">Other</p>
 
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -70,8 +66,6 @@
 ###
 
 <p align="center">Most Used Languages</p>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Decursusss&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
